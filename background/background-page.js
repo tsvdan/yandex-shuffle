@@ -1,13 +1,6 @@
 const extId = chrome.runtime.id;
 console.log(extId);
 
-let tabs;
-
-// Mess
-// chrome.tabs.getAllInWindow((tArr) => {
-//   tabs = tArr.filter((tab) => tab.url.startsWith("https://music.yandex."));
-// });
-
 chrome.runtime.onMessage.addListener((request, sender, callback) => {
   if (request.message === "done-loading") {
     chrome.tabs.executeScript({
@@ -15,8 +8,6 @@ chrome.runtime.onMessage.addListener((request, sender, callback) => {
     });
   }
 });
-
-/* For messages from code injected into the webpage */
 
 /* DEBUG */
 chrome.runtime.onMessage.addListener((request, sender, callback) => {
