@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "name": "Yandex Shuffle",
+    "version": "0.1",
+    "description": "Extended shuffle controls for music.yandex.ru",
+    "icons": {
+        "96": "assets/yamusic-96.png"
+    },
+    "background": {
+        "page": "background/background.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://music.yandex.ru/*"],
+            "js": ["foreground-messenger.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "privacy",
+        "storage",
+        "https://music.yandex.ru/*"
+    ],
+    "externally_connectable": {
+        "matches": ["https://music.yandex.ru/*"]
+    },
+    "web_accessible_resources": [
+        "assets/*.svg",
+        "styles/*.css"
+    ]
+  }

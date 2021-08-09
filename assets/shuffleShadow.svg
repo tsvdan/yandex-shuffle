@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28" height="28" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m0 0h28v28h-28z" fill="none"/>
+ <g fill="none" fill-rule="evenodd" stroke-miterlimit="4.05">
+  <g fill="#000" stroke-miterlimit="4.05">
+   <path d="m21.791 19.358-3.3803-2.7804 4.1025-1.5365z" color="#000000" stroke-width=".43808pt" style="-inkscape-stroke:none"/>
+   <path d="m22.885 14.59-5.0508 1.8926 4.1621 3.4219 0.08398-0.49805zm-0.74414 0.90234-0.55273 3.3203-2.5996-2.1387z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+  <path d="m18.598 8.6953a1.0953 1.0953 0 0 0-0.86914 0.00977l-14.262 6.3711 0.89453 2 13.197-5.8965 2.3203 6.1953 2.0508-0.76758-2.7285-7.2852a1.0953 1.0953 0 0 0-0.60352-0.62695z" color="#000000" fill="#000" fill-rule="nonzero" stroke-linejoin="round" stroke-miterlimit="4.05" style="-inkscape-stroke:none;paint-order:markers fill stroke"/>
+  <path d="m23.059 7.3906-12.037 9.373-3.252-6.9863-0.94531 0.44141 3.8066 8.1719 13.068-10.178z" color="#000000" fill="#000" fill-rule="nonzero" stroke-miterlimit="4.05" style="-inkscape-stroke:none"/>
+  <g fill="#000" stroke-miterlimit="4.05">
+   <path d="m24.328 7.0624-0.78281 1.9316-1.2817-1.6458z" color="#000000" stroke-width=".2086pt" style="-inkscape-stroke:none"/>
+   <path d="m24.547 6.8926-0.23828 0.03125-2.3027 0.32031 1.5781 2.0254zm-0.4375 0.33984-0.60352 1.4863-0.98438-1.2656z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+  <g fill="#fac832" stroke-miterlimit="4.05">
+   <path d="m22.316 19.328-3.3797-2.7799 4.1017-1.5362z" color="#000000" stroke-width=".438pt" style="-inkscape-stroke:none"/>
+   <path d="m23.41 14.561-5.0508 1.8926 4.1602 3.4219 0.08398-0.49805zm-0.74414 0.90234-0.55469 3.3164-2.5977-2.1348z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+  <path d="m19.123 8.666a1.0951 1.0951 0 0 0-0.86914 0.00977l-14.262 6.3711 0.89258 1.998 13.199-5.8945 2.3203 6.1953 2.0508-0.76758-2.7285-7.2871a1.0951 1.0951 0 0 0-0.60352-0.625z" color="#000000" fill="#fac832" fill-rule="nonzero" stroke-linejoin="round" stroke-miterlimit="4.05" style="-inkscape-stroke:none;paint-order:markers fill stroke"/>
+  <path d="m23.449 7.5605-12.035 9.3711-3.252-6.9844-0.94531 0.44141 3.8047 8.1719 13.068-10.178z" color="#000000" fill="#fac832" fill-rule="nonzero" stroke-miterlimit="4.05" style="-inkscape-stroke:none"/>
+  <g fill="#fac832" stroke-miterlimit="4.05">
+   <path d="m24.72 7.232-0.78281 1.9316-1.2817-1.6458z" color="#000000" stroke-width=".2086pt" style="-inkscape-stroke:none"/>
+   <path d="m24.939 7.0605-0.23828 0.033203-2.3027 0.31836 1.5762 2.0273zm-0.4375 0.3418-0.60352 1.4863-0.98438-1.2656z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+ </g>
+</svg>
